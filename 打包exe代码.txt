@@ -1,0 +1,1 @@
+pyinstaller -F -w -n 串口调试助手 main.py
